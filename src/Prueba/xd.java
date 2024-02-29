@@ -8,6 +8,7 @@ public class xd {
 		System.out.println("Hola Mundo");
 		
 		String Nombre = "Enrique";
+		int Edad = 19;
 		
 	}
 
